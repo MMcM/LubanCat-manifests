@@ -50,5 +50,5 @@
     <linkfile dest="tools/linux/Linux_Pack_Firmware/rockdev/package-file" src="linux/Linux_Pack_Firmware/rockdev/rk356x-package-file"/>
   </project>
   <project dest-branch="next-dev" name="u-boot" revision="dba3c59ad0b38168745911c842edcba0f89f3926" upstream="next-dev"/>
-  <project dest-branch="ubuntu20.04" name="ubuntu" revision="392e73e975fbc8b076311195a03df189049904a0" upstream="ubuntu20.04"/>
+  <project dest-branch="ubuntu20.04" name="ubuntu" revision="f0cfcd814f737ac2cc7eb534dd2c83b2cce33983" upstream="ubuntu20.04"/>
 </manifest>
